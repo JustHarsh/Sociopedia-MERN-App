@@ -1,6 +1,6 @@
 # Sociopedia-MERN-App
 
-**Credits** - [EdRoh](https://www.youtube.com/watch?v=K8YELRmUb5o)
+**Mentor** - [EdRoh](https://www.youtube.com/watch?v=K8YELRmUb5o)
 
 # Demo
 
